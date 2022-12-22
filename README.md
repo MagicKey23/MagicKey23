@@ -1,6 +1,7 @@
 
 
-   [![MagicKey23's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicKey23&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![MagicKey23's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicKey23&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicKey23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there, 👋
 ### My name is Kaney Nguyen
