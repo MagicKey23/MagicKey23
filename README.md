@@ -1,8 +1,10 @@
-### Hi there, 👋
+
 
 [![MagicKey23's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicKey23&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Hi there, 👋
+### My name is Kaney Nguyen
+I like working with low-level programming and hardware. Rooting phone was how I got into programming.
 <!--
 **MagicKey23/MagicKey23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
