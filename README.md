@@ -1,8 +1,15 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=MagicKey23&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
-
+<img align ="right" src="https://komarev.com/ghpvc/?username=MagicKey23&label=Profile%20views&color=0e75b6&style=flat" alt="MagicKey23">
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)](https://github.com/MagicKey23?tab=repositories)
 
 [![MagicKey23's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicKey23&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)](https://github.com/MagicKey23?tab=repositories)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicKey23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)](https://github.com/MagicKey23?tab=repositories)
 
 ### Hi there, 👋
 ### My name is Kaney
