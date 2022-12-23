@@ -1,3 +1,4 @@
+<img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 
 
 [![MagicKey23's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicKey23&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
