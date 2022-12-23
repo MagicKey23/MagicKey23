@@ -5,7 +5,7 @@
 
 ### Hi there, 👋
 ### My name is Kaney
-I like working with low-level programming and hardware. Rooting phone was how I got into programming.
+I like working with low-level programming and hardware. Rooting phone, and hacking mobile games were how I got into programming
 <!--
 **MagicKey23/MagicKey23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
