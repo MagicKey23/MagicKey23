@@ -19,7 +19,7 @@ I like working with low-level programming and hardware. Rooting phone, and hacki
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](https://github.com/MagicKey23?tab=repositories)
 
-<a href="#">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
+<a href="https://www.decoysec.com/blogs">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 <!--
 **MagicKey23/MagicKey23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
