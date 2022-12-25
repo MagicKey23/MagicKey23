@@ -21,6 +21,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png
 
 <a href="https://www.decoysec.com/blogs">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](https://github.com/MagicKey23?tab=repositories)
 
 - 🔭 I’m currently working on senior design
 - 🌱 I’m currently learning unreal engine
