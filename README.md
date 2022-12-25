@@ -28,4 +28,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png
 - 🌱 I’m currently learning unreal engine
 - 👯 I’m looking to collaborate on low level C project
 - 💬 Ask me about anything
-- :zap: Fun Fact About me: I hacked my neighbor wifi in 2015. They were using WEP and default password for their router login. I changed the password, and losing sleep whenever Polices hanging outside my apartment.
+- :zap: Fun Fact About Me: I hacked my neighbor wifi when i'm 16. They were using WEP and default password for their router login. I changed the password, and losing sleep whenever polices hanging outside my apartment. 
