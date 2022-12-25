@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png
 
 ### Hi there, 👋
 ### My name is Kaney
-I liked to work with low-level programming and hardware, and a self-taught programme. Rooting phone, and hacking mobile games were how I got into programming. I also wrote technical blog to share my learning. 
+I liked to work with low-level programming and hardware, and a self-taught programmer. Rooting phone, and hacking mobile games were how I got into programming. I also wrote technical blog to share my learning. 
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](https://github.com/MagicKey23?tab=repositories)
