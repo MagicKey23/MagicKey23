@@ -29,3 +29,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png
 - 👯 I’m looking to collaborate on low level C project
 - 💬 Ask me about anything
 - :zap: Fun Fact About Me: I hacked my neighbor wifi when i'm 16 using backtrack OS(KaliLinux) with aircrack-ng. They were using WEP and default password for their router login. I changed the password, and losing sleep whenever polices hanging outside my apartment. 
+
+- I wrote a full complete software engineer career guide here -> https://www.decoysec.com/software-engineer-guide
+- It is important to realize, these are my opinion, and what successful people have done. 
