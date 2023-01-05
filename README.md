@@ -3,11 +3,11 @@
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](https://github.com/MagicKey23?tab=repositories)
 
-[![MagicKey23's GitHub stats]([github-readme-stats-53tlp60u5-magickey23.vercel.app](https://github-readme-stats1-magickey23.vercel.app/)/api?username=MagicKey23&show_icons=true&theme=cobalt)](https://github.com/MagicKey23/github-readme-stats)
+[![MagicKey23's GitHub stats](https://github-readme-stats1-magickey23.vercel.app/api?username=MagicKey23&show_icons=true&theme=cobalt)](https://github.com/MagicKey23/github-readme-stats)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](https://github.com/MagicKey23?tab=repositories)
 
-[![Top Langs]([github-readme-stats-53tlp60u5-magickey23.vercel.app](https://github-readme-stats1-magickey23.vercel.app/)/api/top-langs/?username=MagicKey23&layout=compact)](https://github.com/Magickey23/github-readme-stats)
+[![Top Langs](https://github-readme-stats1-magickey23.vercel.app/api/top-langs/?username=MagicKey23&layout=compact)](https://github.com/Magickey23/github-readme-stats)
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](https://github.com/MagicKey23?tab=repositories)
