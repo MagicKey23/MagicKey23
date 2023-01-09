@@ -1,10 +1,3 @@
-
-<h1 align="center"> <img src="redhood hat.jpg" alt="drawing" width="200"/>
- </h1>
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=magickey23&label=Profile%20views&color=0e75b6&style=flat" alt="magickey23" /> </p>
 
 <h1 align="center">Hi 👋, I'm Kaney</h1>
@@ -57,4 +50,3 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magickey23&show_icons=true&locale=en" alt="magickey23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magickey23&" alt="magickey23" /></p>
