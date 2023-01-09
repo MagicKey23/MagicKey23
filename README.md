@@ -5,6 +5,8 @@
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=magickey23&label=Profile%20views&color=0e75b6&style=flat" alt="magickey23" /> </p>
+
 <h1 align="center">Hi 👋, I'm Kaney</h1>
 <h3 align="center">I liked to work with low-level programming and hardware, and a self-taught programmer. Rooting phone, and hacking mobile games were how I got into programming. I also wrote technical blog to share my learning.</h3>
 
@@ -12,10 +14,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magickey23&label=Profile%20views&color=0e75b6&style=flat" alt="magickey23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magickey23" alt="magickey23" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/0xdec0ysec" target="blank"><img src="https://img.shields.io/twitter/follow/0xdec0ysec?logo=twitter&style=for-the-badge" alt="0xdec0ysec" /></a> </p>
 
