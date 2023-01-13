@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 🔭 I’m currently working on **Senior Capstone**
 
-- 🌱 I’m currently learning **LLVM/Unreal Engine**
+- 🌱 I’m currently learning **YOLOV5 and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Low-Level Project**
 
