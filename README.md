@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-<p><img align="left" src="https://github-readme-stats-53tlp60u5-magickey23.vercel.app/api/top-langs?username=magickey23&show_icons=true&locale=en&layout=compact" alt="magickey23" /></p>
+<p><img align="left" src="https://github-readme-stats-magickey23.vercel.app/api/top-langs?username=magickey23&show_icons=true&locale=en&layout=compact" alt="magickey23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-magickey23.vercel.app/api?username=magickey23&show_icons=true&locale=en" alt="magickey23" /></p>
 
