@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 🌱 I’m currently building computer vision tool. Yolo-Sinet for camouflaged breaker
 
-- 👯 I’m looking to collaborate on **Low-Level Project**
+- 👯 I’m looking to collaborate on **Threat Intelligence Project**
 
 - 📝 I regularly write articles on [https://www.decoysec.com/blogs](https://www.decoysec.com/blogs)
 
