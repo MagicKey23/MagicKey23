@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 🔭 I’m currently working on **Senior Capstone**
 
-- 🌱 I’m currently building computer vision tool. Yolo-Sinet, which a real-time camouflaged breaker
+- 🌱 I’m currently building computer vision tool for Camouflaged
 
 - 👯 I’m looking to collaborate on **Threat Intelligence Project**
 
