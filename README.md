@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-- 🔭 I’m currently working on **Senior Capstone**
+- 🔭 I’m currently working on Camouflaged Background/Foreground Generator
 
 - 🌱 I’m currently building computer vision tool for Camouflaged
 
