@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=magickey23&label=Profile%20views&color=0e75b6&style=flat" alt="magickey23" /> </p>
 
 <h1 align="center">Hi 👋, I'm Kaney</h1>
-<h3 align="center">I liked to work with low-level programming and hardware, and a self-taught programmer. Rooting phone, and hacking mobile games were how I got into programming. I also wrote technical blog to share my learning.</h3>
+<h3 align="center">Currently working as Software Engineer and Graduate Student at NYU. :) Contact me if interest in colab</h3>
 
 
 [![-----------------------------------------------------](
