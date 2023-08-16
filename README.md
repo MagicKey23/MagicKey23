@@ -14,10 +14,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-- 🔭 I’m currently working on Camouflaged Background/Foreground Generator
+- 🔭 I’m currently working as Embedded Software Engineer.
 
-- 🌱 I’m currently building computer vision tool for Camouflaged
-
+- 🌱 I’m currently brainstorming new project
+- 
 - 👯 I’m looking to collaborate on **Threat Intelligence Project**
 
 - 📝 I regularly write articles on [https://www.decoysec.com/blogs](https://www.decoysec.com/blogs)
