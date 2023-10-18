@@ -14,11 +14,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-- 🔭 I’m currently working as Embedded Software Engineer.
+- 🔭 I’m currently working as Software Engineer.
 
-- 🌱 I’m currently brainstorming new project
+- 🌱 I’m currently work and study :(
 - 
-- 👯 I’m looking to collaborate on **Threat Intelligence Project**
+- 👯 I’m looking to collaborate on **Too Busy To Collab right now**
 
 - 📝 I regularly write articles on [https://www.decoysec.com/blogs](https://www.decoysec.com/blogs)
 
