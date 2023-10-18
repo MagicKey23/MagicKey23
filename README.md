@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - 🔭 I’m currently working as Software Engineer.
 
 - 🌱 I’m currently work and study :(
-- 
+
 - 👯 I’m looking to collaborate on **Too Busy To Collab right now**
 
 - 📝 I regularly write articles on [https://www.decoysec.com/blogs](https://www.decoysec.com/blogs)
@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 📫 How to reach me **kaney@decoysec.com**
 
-- ⚡ Fun fact **I hacked my neighbor wifi when i'm 16 using backtrack OS(KaliLinux) with aircrack-ng. They were using WEP and default password for their router login. I changed the password, and losing sleep whenever polices hanging outside my apartment.**
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
